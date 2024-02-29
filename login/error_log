@@ -1,0 +1,4 @@
+[03-Aug-2020 21:04:05 Europe/Ljubljana] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/asstor59/public_html/punchit/login/auth.php on line 9
+[03-Aug-2020 21:04:05 Europe/Ljubljana] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asstor59/public_html/punchit/login/auth.php:7) in /home/asstor59/public_html/punchit/login/auth.php on line 11
+[03-Aug-2020 21:16:05 Europe/Ljubljana] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/asstor59/public_html/punchit/login/auth.php on line 9
+[03-Aug-2020 21:16:05 Europe/Ljubljana] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asstor59/public_html/punchit/login/auth.php:7) in /home/asstor59/public_html/punchit/login/auth.php on line 11
