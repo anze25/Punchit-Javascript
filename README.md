@@ -4,8 +4,6 @@
 ## Pregled
 Ta JavaScript aplikacija omogoča uporabnikom sledenje delovnih ur in ustvarjanje natisljivih poročil. Uporabniki lahko beležijo svoje delovne ure, si ogledajo povzetke in ustvarijo poročila v različnih oblikah.
 
-![Screenshot](https://github.com/anze25/Punchit-Javascript/blob/master/Screenshot.png)
-
 ## Funkcionalnosti
 - **Beleženje Delovnih Ur**: Uporabniki lahko beležijo svoje delovne ure po datumu, projektu in nalogi.
 - **Ustvarjanje Poročil**:
@@ -29,9 +27,6 @@ Ta JavaScript aplikacija omogoča uporabnikom sledenje delovnih ur in ustvarjanj
 - Javascript
 
 
-## Sodelovanje
-Prispevki so dobrodošli! Odprite vprašanja ali pošljite zahteve za združitev sprememb.
-
 ## Licenca
 Ta projekt je licenciran pod MIT licenco.
 
@@ -39,6 +34,5 @@ Ta projekt je licenciran pod MIT licenco.
 
 **Opomba**: Prepričajte se, da zamenjate označevalce (npr. `username`, `password`) z dejanskimi vrednostmi, specifičnimi za vašo aplikacijo.
 
-Za več informacij o jsreport obiščite njihov GitHub repozitorij.
 
-!Posnetek Zaslona Aplikacije
+![Screenshot](https://github.com/anze25/Punchit-Javascript/blob/master/Screenshot.png)
